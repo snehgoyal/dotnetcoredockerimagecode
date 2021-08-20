@@ -35,8 +35,13 @@ C:\Users\snswaroo\Desktop\saurabhdemo\app\wwwroot\lib\jquery\dist\jquery.js
 C:\Users\snswaroo\Desktop\saurabhdemo\app\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\snswaroo\Desktop\saurabhdemo\app\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\snswaroo\Desktop\saurabhdemo\app\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\snswaroo\Desktop\saurabhdemo\app\app\web.config
 C:\Users\snswaroo\Desktop\saurabhdemo\app\appsettings.Development.json
 C:\Users\snswaroo\Desktop\saurabhdemo\app\appsettings.json
+C:\Users\snswaroo\Desktop\saurabhdemo\app\app\appsettings.Development.json
+C:\Users\snswaroo\Desktop\saurabhdemo\app\app\appsettings.json
+C:\Users\snswaroo\Desktop\saurabhdemo\app\app\saurabhdemo.deps.json
+C:\Users\snswaroo\Desktop\saurabhdemo\app\app\saurabhdemo.runtimeconfig.json
 C:\Users\snswaroo\Desktop\saurabhdemo\app\saurabhdemo.dll
 C:\Users\snswaroo\Desktop\saurabhdemo\app\saurabhdemo.deps.json
 C:\Users\snswaroo\Desktop\saurabhdemo\app\saurabhdemo.runtimeconfig.json

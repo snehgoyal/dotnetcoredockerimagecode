@@ -38,3 +38,8 @@ C:\Users\snswaroo\Desktop\saurabhdemo\obj\release\net5.0\ref\saurabhdemo.dll
 C:\Users\snswaroo\Desktop\saurabhdemo\obj\release\net5.0\saurabhdemo.pdb
 C:\Users\snswaroo\Desktop\saurabhdemo\obj\release\net5.0\saurabhdemo.genruntimeconfig.cache
 C:\Users\snswaroo\Desktop\saurabhdemo\obj\release\net5.0\saurabhdemo.csproj.CopyComplete
+C:\Users\snswaroo\Desktop\saurabhdemo\bin\release\net5.0\app\web.config
+C:\Users\snswaroo\Desktop\saurabhdemo\bin\release\net5.0\app\appsettings.Development.json
+C:\Users\snswaroo\Desktop\saurabhdemo\bin\release\net5.0\app\appsettings.json
+C:\Users\snswaroo\Desktop\saurabhdemo\bin\release\net5.0\app\saurabhdemo.deps.json
+C:\Users\snswaroo\Desktop\saurabhdemo\bin\release\net5.0\app\saurabhdemo.runtimeconfig.json
